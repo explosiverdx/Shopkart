@@ -1,0 +1,95 @@
+.dropdown {
+  height: 123px;
+  position: relative;
+  width: 159px;
+}
+
+.dropdown .overlap {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 159px;
+}
+
+.dropdown .dopdown {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.dropdown .img {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 139px;
+}
+
+.dropdown .overlap-group {
+  height: 94px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 129px;
+}
+
+.dropdown .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.dropdown .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 129px;
+}
+
+.dropdown .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 44px;
+  width: 129px;
+}
+
+.dropdown .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 66px;
+  width: 129px;
+}

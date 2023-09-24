@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Syne:wght@600;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --body-text-14: "Work Sans";
+  --subtitles: Syne;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-3xs: 10px;
+  --subtitles-size: 26px;
+  --body-text-14-size: 14px;
+  --font-size-xs: 12px;
+  --h1-title-size: 135px;
+  --h2-title-size: 90px;
+
+  /* Colors */
+  --grey-scale-000: #fff;
+  --color-dimgray: #626262;
+  --color-gray-100: #1a1a1a;
+  --color-gray-200: #161615;
+  --color-gray-300: rgba(255, 255, 255, 0.5);
+  --greyscale-400: rgba(22, 22, 21, 0.5);
+  --grey-scale-1000: #000;
+  --pimary-colour: #f07e15;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+  --gap-10xs: 3px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+}

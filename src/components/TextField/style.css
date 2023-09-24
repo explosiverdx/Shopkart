@@ -1,0 +1,63 @@
+.text-field {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 975px;
+  position: relative;
+  top: 149px;
+}
+
+.text-field .div {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 8px;
+  position: relative;
+  width: 310px;
+}
+
+.text-field .text-wrapper-2 {
+  color: var(--grey-scale-1000);
+  font-family: var(--subtitles-font-family);
+  font-size: var(--subtitles-font-size);
+  font-style: var(--subtitles-font-style);
+  font-weight: var(--subtitles-font-weight);
+  height: 30px;
+  letter-spacing: var(--subtitles-letter-spacing);
+  line-height: var(--subtitles-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 258px;
+}
+
+.text-field .p {
+  color: var(--greyscale-400);
+  font-family: var(--body-text-14-font-family);
+  font-size: var(--body-text-14-font-size);
+  font-style: var(--body-text-14-font-style);
+  font-weight: var(--body-text-14-font-weight);
+  height: 49px;
+  letter-spacing: var(--body-text-14-letter-spacing);
+  line-height: var(--body-text-14-line-height);
+  margin-right: -9px;
+  position: relative;
+  width: 303px;
+}
+
+.text-field .text-wrapper-3 {
+  color: var(--grey-scale-1000);
+  font-family: var(--subtitles-font-family);
+  font-size: var(--subtitles-font-size);
+  font-style: var(--subtitles-font-style);
+  font-weight: var(--subtitles-font-weight);
+  height: 30px;
+  letter-spacing: var(--subtitles-letter-spacing);
+  line-height: var(--subtitles-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: 258px;
+}
